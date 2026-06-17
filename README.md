@@ -11,8 +11,7 @@
 
 ### 📬 Connect with Me
 - 📧 **Email:** raginianand002@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/ragini-anand-288782335]
-
+- 💼 **LinkedIn:** www.linkedin.com/in/ragini-anand-288782335
 ---
 
 ### 📊 Profile Views
