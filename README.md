@@ -7,7 +7,7 @@
 ### 🛠️ About Me
 - 🎓 **Education:** Pursuing B.Tech in Computer Science Engineering (CSE)
 - 💡 **Interests:** Software Development, Problem Solving, and Tech Innovations
-- 💻 **Coding Profiles:**  raginificent | raginianand002-code
+- 💻 **Coding Profiles:**  [Leetcode](https://leetcode.com/u/raginificent/) | [GeekForGeeks](https://github.com/raginianand002-code/raginianand002-code)
 
 ### 📬 Connect with Me
 - 📧 **Email:** raginianand002@gmail.com
