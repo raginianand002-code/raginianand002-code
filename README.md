@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey I'm Ragini Anand 👋
 
-<!--
-**raginianand002-code/raginianand002-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Computer Science Engineering Student | Aspiring Developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ About Me
+- 🎓 **Education:** Pursuing B.Tech in Computer Science Engineering (CSE)
+- 💡 **Interests:** Software Development, Problem Solving, and Tech Innovations
+- 💻 **Coding Profiles:** [LeetCode](raginificent) | [GitHub](raginianand002-code)
+
+### 📬 Connect with Me
+- 📧 **Email:** raginianand002@gmail.com
+- 💼 **LinkedIn:** [linkedin.com/in/ragini-anand-288782335]
+
+---
+
+### 📊 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue)
