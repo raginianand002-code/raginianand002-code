@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/raginianand002-code/raginianand002-code/main/[your-uploaded-image](https://i.pinimg.com/736x/bc/44/8b/bc448b2c1a788e86f1dc71413e24b883.jpg).jpg" alt="Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/raginianand002-code/raginianand002-code/main/<img width="735" height="412" alt="image" src="https://github.com/user-attachments/assets/93ee59da-d5c0-4644-b6b4-606957fba75a" />
+" alt="Banner" width="100%" />
 </p>
 # Hey I'm Ragini Anand 👋
 
