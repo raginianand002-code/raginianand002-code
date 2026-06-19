@@ -21,6 +21,7 @@
 - ## 💡 LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/raginificent?theme=dark&font=Baloo)
+(https://leetcard.jacoblin.cool/raginificent?theme=dark&ext=heatmap)
 
 - ### 🧰 Tech Stack & Tools
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
