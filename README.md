@@ -10,7 +10,17 @@
 ### 🛠️ About Me
 - 🎓 **Education:** Pursuing B.Tech in Computer Science Engineering (CSE)
 - 💡 **Interests:** Software Development, Problem Solving, and Tech Innovations
-- 💻 **Coding Profiles:**  [Leetcode](https://leetcode.com/u/raginificent/) | [GeekForGeeks](https://github.com/raginianand002-code/raginianand002-code)
+- ## 🚀 GitHub Status
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raginianand002-code&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raginianand002-code&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=raginianand002-code&theme=tokyonight)
+
+- ## 💡 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/raginificent?theme=dark&font=Baloo)
 
 - ### 🧰 Tech Stack & Tools
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
